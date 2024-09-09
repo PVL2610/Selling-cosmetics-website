@@ -1,0 +1,451 @@
+D:\DOAN\DOAN\DOAN\bin\DOAN.dll.config
+D:\DOAN\DOAN\DOAN\bin\DOAN.dll
+D:\DOAN\DOAN\DOAN\bin\DOAN.pdb
+D:\DOAN\DOAN\DOAN\bin\roslyn\csc.exe
+D:\DOAN\DOAN\DOAN\bin\roslyn\csc.exe.config
+D:\DOAN\DOAN\DOAN\bin\roslyn\csc.rsp
+D:\DOAN\DOAN\DOAN\bin\roslyn\csi.exe
+D:\DOAN\DOAN\DOAN\bin\roslyn\csi.exe.config
+D:\DOAN\DOAN\DOAN\bin\roslyn\csi.rsp
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOAN\DOAN\DOAN\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.AppContext.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Collections.Immutable.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Console.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Globalization.Calendars.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.IO.Compression.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.IO.FileSystem.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Net.Http.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Net.Sockets.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.ValueTuple.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Xml.XPath.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DOAN\DOAN\DOAN\bin\roslyn\vbc.exe
+D:\DOAN\DOAN\DOAN\bin\roslyn\vbc.exe.config
+D:\DOAN\DOAN\DOAN\bin\roslyn\vbc.rsp
+D:\DOAN\DOAN\DOAN\bin\roslyn\VBCSCompiler.exe
+D:\DOAN\DOAN\DOAN\bin\roslyn\VBCSCompiler.exe.config
+D:\DOAN\DOAN\DOAN\bin\EntityFramework.dll
+D:\DOAN\DOAN\DOAN\bin\EntityFramework.SqlServer.dll
+D:\DOAN\DOAN\DOAN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOAN\DOAN\DOAN\bin\Microsoft.Web.Infrastructure.dll
+D:\DOAN\DOAN\DOAN\bin\Newtonsoft.Json.dll
+D:\DOAN\DOAN\DOAN\bin\System.Net.Http.Formatting.dll
+D:\DOAN\DOAN\DOAN\bin\System.Web.Helpers.dll
+D:\DOAN\DOAN\DOAN\bin\System.Web.Http.dll
+D:\DOAN\DOAN\DOAN\bin\System.Web.Http.WebHost.dll
+D:\DOAN\DOAN\DOAN\bin\System.Web.Mvc.dll
+D:\DOAN\DOAN\DOAN\bin\System.Web.Razor.dll
+D:\DOAN\DOAN\DOAN\bin\System.Web.Webpages.Deployment.dll
+D:\DOAN\DOAN\DOAN\bin\System.Web.Webpages.dll
+D:\DOAN\DOAN\DOAN\bin\System.Web.Webpages.Razor.dll
+D:\DOAN\DOAN\DOAN\bin\EntityFramework.xml
+D:\DOAN\DOAN\DOAN\bin\EntityFramework.SqlServer.xml
+D:\DOAN\DOAN\DOAN\bin\System.Web.Razor.xml
+D:\DOAN\DOAN\DOAN\bin\System.Web.Webpages.xml
+D:\DOAN\DOAN\DOAN\bin\System.Web.Webpages.Deployment.xml
+D:\DOAN\DOAN\DOAN\bin\System.Web.Webpages.Razor.xml
+D:\DOAN\DOAN\DOAN\bin\System.Web.Helpers.xml
+D:\DOAN\DOAN\DOAN\bin\System.Web.Mvc.xml
+D:\DOAN\DOAN\DOAN\bin\Newtonsoft.Json.xml
+D:\DOAN\DOAN\DOAN\bin\System.Net.Http.Formatting.xml
+D:\DOAN\DOAN\DOAN\bin\System.Web.Http.xml
+D:\DOAN\DOAN\DOAN\bin\System.Web.Http.WebHost.xml
+D:\DOAN\DOAN\DOAN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOAN\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\DOAN\DOAN\DOAN\obj\Debug\DOAN.csproj.CopyComplete
+D:\DOAN\DOAN\DOAN\obj\Debug\DOAN.dll
+D:\DOAN\DOAN\DOAN\obj\Debug\DOAN.pdb
+D:\DOAN\DOAN\DOAN\obj\Debug\DOAN.csprojAssemblyReference.cache
+D:\DOAN\DOAN\DOAN\bin\CaptchaMvc.dll
+D:\DOAN\DOAN\DOAN\bin\CaptchaMvc.pdb
+D:\DOAN\DOAN\DOAN\bin\CaptchaMvc.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\DOAN.dll.config
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\DOAN.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\DOAN.pdb
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\csc.exe
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\csc.exe.config
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\csc.rsp
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\csi.exe
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\csi.exe.config
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\csi.rsp
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.AppContext.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Console.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.IO.Compression.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Net.Http.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.ValueTuple.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\vbc.exe
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\vbc.exe.config
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\vbc.rsp
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\CaptchaMvc.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\EntityFramework.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\EntityFramework.SqlServer.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\Newtonsoft.Json.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Net.Http.Formatting.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Helpers.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Http.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Http.WebHost.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Mvc.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Razor.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Webpages.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Webpages.Razor.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\CaptchaMvc.pdb
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\CaptchaMvc.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\EntityFramework.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\EntityFramework.SqlServer.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Razor.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Webpages.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Webpages.Razor.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Helpers.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Mvc.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\Newtonsoft.Json.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Net.Http.Formatting.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Http.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\System.Web.Http.WebHost.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\obj\Debug\DOAN.csproj.CopyComplete
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\obj\Debug\DOAN.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\obj\Debug\DOAN.pdb
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\PagedList.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\PagedList.Mvc.dll
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\PagedList.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\bin\PagedList.Mvc.xml
+C:\Users\Thuy Tien\Desktop\TMDT\DOAN\obj\Debug\DOAN.csprojAssemblyReference.cache
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\DOAN.dll.config
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\DOAN.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\DOAN.pdb
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\csc.exe
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\csc.exe.config
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\csc.rsp
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\csi.exe
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\csi.exe.config
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\csi.rsp
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.AppContext.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Console.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Net.Http.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\vbc.exe
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\vbc.exe.config
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\vbc.rsp
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\CaptchaMvc.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\EntityFramework.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\EntityFramework.SqlServer.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\Newtonsoft.Json.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\PagedList.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\PagedList.Mvc.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Net.Http.Formatting.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Helpers.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Http.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Http.WebHost.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Mvc.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Razor.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Webpages.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Webpages.Razor.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\CaptchaMvc.pdb
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\CaptchaMvc.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\EntityFramework.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\EntityFramework.SqlServer.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\PagedList.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\PagedList.Mvc.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Razor.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Webpages.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Webpages.Razor.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Helpers.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Mvc.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\Newtonsoft.Json.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Net.Http.Formatting.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Http.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\System.Web.Http.WebHost.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\obj\Debug\DOAN.csproj.CopyComplete
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\obj\Debug\DOAN.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\new\SellingCosmetics\DOAN\obj\Debug\DOAN.pdb
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\DOAN.dll.config
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\DOAN.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\DOAN.pdb
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csc.exe
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csc.exe.config
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csc.rsp
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csi.exe
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csi.exe.config
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csi.rsp
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.Managed.Core.targets
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.AppContext.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Collections.Immutable.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Console.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Globalization.Calendars.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.IO.Compression.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.IO.FileSystem.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Net.Http.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Net.Sockets.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Reflection.Metadata.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.ValueTuple.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Xml.XmlDocument.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Xml.XPath.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\vbc.exe
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\vbc.exe.config
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\vbc.rsp
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\VBCSCompiler.exe
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\VBCSCompiler.exe.config
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\CaptchaMvc.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\EntityFramework.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\EntityFramework.SqlServer.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\Microsoft.Web.Infrastructure.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\Newtonsoft.Json.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\PagedList.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\PagedList.Mvc.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Net.Http.Formatting.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Helpers.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Http.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Http.WebHost.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Mvc.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Razor.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.Deployment.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.Razor.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\CaptchaMvc.pdb
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\CaptchaMvc.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\EntityFramework.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\EntityFramework.SqlServer.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\PagedList.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\PagedList.Mvc.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Razor.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.Deployment.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.Razor.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Helpers.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Mvc.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\Newtonsoft.Json.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Net.Http.Formatting.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Http.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Http.WebHost.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\obj\Debug\DOAN.csproj.CopyComplete
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\obj\Debug\DOAN.dll
+D:\webc#\SellingCosmetics\SellingCosmetics\DOAN\obj\Debug\DOAN.pdb
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\DOAN.dll.config
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\DOAN.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\DOAN.pdb
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csc.exe
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csc.exe.config
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csc.rsp
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csi.exe
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csi.exe.config
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\csi.rsp
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.AppContext.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Collections.Immutable.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Console.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.IO.Compression.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.IO.FileSystem.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Net.Http.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Net.Sockets.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.ValueTuple.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Xml.XPath.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\vbc.exe
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\vbc.exe.config
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\vbc.rsp
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\VBCSCompiler.exe
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\roslyn\VBCSCompiler.exe.config
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\CaptchaMvc.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\EntityFramework.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\EntityFramework.SqlServer.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\Microsoft.Web.Infrastructure.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\Newtonsoft.Json.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\PagedList.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\PagedList.Mvc.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Net.Http.Formatting.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Helpers.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Http.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Http.WebHost.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Mvc.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Razor.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.Deployment.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.Razor.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\CaptchaMvc.pdb
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\CaptchaMvc.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\EntityFramework.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\EntityFramework.SqlServer.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\PagedList.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\PagedList.Mvc.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Razor.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.Deployment.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Webpages.Razor.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Helpers.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Mvc.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\Newtonsoft.Json.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Net.Http.Formatting.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Http.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\System.Web.Http.WebHost.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\obj\Debug\DOAN.csproj.Up2Date
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\obj\Debug\DOAN.dll
+D:\Nháp\webc#\SellingCosmetics\SellingCosmetics\DOAN\obj\Debug\DOAN.pdb
